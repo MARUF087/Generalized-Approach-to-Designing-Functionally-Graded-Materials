@@ -2,7 +2,6 @@
   Micro-and mesostructure-informed property spaces: Toward generalized approach to designing FGMs
 </h1>
 
-**Micro-and mesostructure-informed property spaces: Toward generalized approach to designing FGMs**
 These materials include: (i) the complete set of stiffness property constraints used in the optimization, including both inequality constraints and the equality constraints for the IN-718 property closure; (ii) the property closure of the double-arrowhead mesostructure; (iii) detailed discussions of the microstructure-graded simply supported beam and the microstructure-graded L-shaped frame; and (iv) extended numerical results for two additional case studies: a tapered cantilever beam subjected to an end load (in-plane loading scenario) and a clamped thin plate under a uniformly distributed load (out-of-plane loading scenario).
 
 **About the Paper:**
@@ -13,3 +12,15 @@ These materials include: (i) the complete set of stiffness property constraints 
 **Journal:** *International Journal of Mechanical Sciences*  
 **Year:** 2026 | **Volume:** 318 | **Article:** 111559  
 **DOI:** [10.1016/j.ijmecsci.2026.111559](https://doi.org/10.1016/j.ijmecsci.2026.111559)
+
+```bibtex
+@article{billah2026micro,
+  title   = {Micro- and mesostructure-informed property spaces: Toward generalized approach to designing FGMs},
+  author  = {Billah, Md Maruf and Khan, Waris and Acar, Pınar},
+  journal = {International Journal of Mechanical Sciences},
+  volume  = {318},
+  pages   = {111559},
+  year    = {2026},
+  doi     = {10.1016/j.ijmecsci.2026.111559},
+  url     = {https://doi.org/10.1016/j.ijmecsci.2026.111559}
+}
