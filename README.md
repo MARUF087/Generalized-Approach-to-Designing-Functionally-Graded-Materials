@@ -13,11 +13,7 @@ These materials include: (i) the complete set of stiffness property constraints 
 **Year:** 2026 | **Volume:** 318 | **Article:** 111559  
 **DOI:** [10.1016/j.ijmecsci.2026.111559](https://doi.org/10.1016/j.ijmecsci.2026.111559)
 
-**Citation information:**
 ## 📖 How to Cite
-
-**Plain text citation** (ready to copy-paste into Word, Google Docs, or any reference manager):
-
 Billah, Md Maruf, et al. “Micro- and Mesostructure-Informed Property Spaces: Toward Generalized Approach to Designing FGMs.” International Journal of Mechanical Sciences, Mar. 2026, p. 111559, https://doi.org/10.1016/j.ijmecsci.2026.111559.
 
 ```bibtex
